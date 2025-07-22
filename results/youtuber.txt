@@ -1,0 +1,53 @@
+Summary of r/youtuber top 100 posts (week)
+
+--- Common Problems ---
+- Lack of time and motivation for content creation.
+- Decrease in Click-Through Rate (CTR) for content.
+- Abandoned places not being maintained or repurposed.
+- Difficulty remembering specific YouTubers or content creators.
+- Challenges in growing a new live streaming or YouTube channel.
+- Lack of video editing skills for content creators.
+- Struggles with gaining subscribers and reaching subscriber goals.
+- Seeking support or sponsorship for content creation.
+- Need for video editing and graphic design services.
+- Difficulty in gaining subscribers and views for new YouTube channels.
+- Challenges in creating engaging and entertaining content consistently.
+- Need for promotion and sharing to increase visibility and audience reach.
+- Importance of viewer interaction through likes, comments, and shares.
+- Struggle to stand out in a crowded content space, especially for gaming and entertainment channels.
+- Manual repetitive tasks for YouTubers.
+- Need for automation in managing comments and emails.
+- Difficulty in tracking and managing newsletter signups or course sales.
+- Challenges in conducting content research efficiently.
+- Need for integration between different platforms (e.g., YouTube, Notion, Discord, Email lists).
+- Interest in automating keyword searches and monitoring blog updates.
+- Desire to track subreddit topics automatically.
+- Lack of knowledge on applications for streaming games from a cell phone.
+
+--- User Solutions ---
+- Returning to personal interests, such as video games and turn-based combat, to re-engage with audiences and boost motivation.
+- Exploring and documenting abandoned places to uncover hidden gems and share discoveries, raising awareness about these locations.
+- Seeking community advice to improve content strategy and regain viewer engagement after a drop in Click-Through Rate (CTR).
+- Actively promoting content by encouraging likes, subscriptions, comments, and shares to increase visibility and engagement.
+- Sharing personal career transition stories to inspire others and showcase personal growth.
+- Creating and sharing podcast episodes to discuss various topics and build a community around shared interests.
+- Leveraging community support to identify specific YouTube creators by sharing detailed descriptions.
+- Starting with simple live streaming formats and evolving into more interactive sessions to grow an audience.
+- Consistently streaming to build a regular audience.
+- Sharing subscriber goals and asking for feedback to promote YouTube channels.
+- Offering professional services like video editing and thumbnail design to enhance video quality and appeal.
+- Engaging with the community by asking for subscriptions, likes, comments, and shares.
+- Creating diverse content to attract a wider audience.
+- Using catchy and intriguing titles to draw viewers' attention.
+- Sharing direct links to make it easy for potential viewers to access content.
+- Consistently producing and uploading content to maintain viewer interest and grow the channel.
+- Highlighting unique aspects of content to differentiate from other channels.
+- Encouraging viewers to check out specific videos or series to build a dedicated audience.
+- Automating YouTube workflows using Zapier to save time on repetitive tasks.
+- Auto-saving new comments and emails to Google Sheets for better management.
+- Sending automated emails or free PDFs when forms are filled out.
+- Connecting YouTube uploads to Notion, Discord, or email lists for streamlined content management.
+- Automatically tracking newsletter signups or course sales.
+- Conducting basic content research automatically using Zapier and other tools.
+- Collecting trending video titles, monitoring keyword searches, and tracking subreddit topics automatically.
+- Offering free Zap setup or audits to help YouTubers automate their processes.

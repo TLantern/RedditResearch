@@ -1,0 +1,94 @@
+Summary of r/emailmarketing top 100 posts (week)
+
+--- Common Problems ---
+- Difficulty gaining experience with ESPs without an existing email list.
+- Stalled email list growth and potential popup fatigue.
+- Inconvenience in managing or deactivating email campaigns on certain platforms.
+- Concerns about email subject lines appearing AI-generated or lazy.
+- Need for simple, free email subscription services for small-scale use.
+- Challenges with email spam filters and understanding text-to-image ratios.
+- Low open and click rates for email campaigns.
+- Seeking alternatives to Mailchimp for adult content marketing.
+- High cost of email services and maintaining professional email domains.
+- Dissatisfaction with Mailchimp, including account issues and service quality.
+- Deliverability and spam issues, especially with old email lists.
+- Desire for free or low-cost email marketing solutions with good support.
+- Difficulty in writing engaging and creative subject lines.
+- Lack of innovative email management tools with advanced features.
+- Concerns about the effectiveness of free lead magnets.
+- Interest in real-time content updates in emails.
+- Difficulty in adding dynamic fields over images in email templates.
+- Compliance and trust issues in email marketing for legal services.
+- Receiving unwanted remarketing/abandoned cart emails.
+- Concerns about high bounce rates and poor email reputation.
+- High spam scores and low deliverability rates.
+- Interest in third-party platforms for HTML email design.
+- Challenges with SaaS onboarding emails for activation and retention.
+- Dislike for certain fonts in email design.
+- Confusion about "email delivered" metrics in reports.
+- Concerns about domain authentication with multiple email services.
+- Challenges with duplicate leads in Facebook Lead Ad campaigns.
+- Issues with email reputation management and spam flagging.
+- Interest in design tweaks to improve email open/click rates.
+- Uncertainty about the best platform for building landing pages.
+
+--- User Solutions ---
+- **Gaining Experience with ESPs without Email Lists:**
+  - Create test accounts with ESPs to explore features.
+  - Utilize free online tutorials and resources.
+  - Join online communities for insights and tips.
+  - Develop personal projects or mock campaigns for practice.
+
+- **Stalled Growth in Email List:**
+  - Implement new opt-in strategies or offers.
+  - Test different popup designs and placements.
+  - Analyze and ensure traffic sources are effective.
+  - Conduct A/B testing to find effective approaches.
+
+- **Rescinding Email Campaigns:**
+  - Compare platforms for campaign cancellation features.
+  - Choose platforms with flexible management options.
+  - Opt for platforms with strong customer support.
+
+- **Use of Em Dashes in Subject Lines:**
+  - Test subject lines with and without em dashes.
+  - Ensure subject lines are engaging and relevant.
+  - Gather feedback from peers or clients.
+
+- **Simple Free Service for Blog Subscription:**
+  - Use tools like MailerLite or TinyLetter.
+  - Choose platforms with simple interfaces and free tiers.
+  - Consider basic form builders for manual updates.
+
+- **Avoiding Spam Triggers and Increasing Open Rates:**
+  - Avoid spam trigger words and excessive punctuation.
+  - Maintain a balanced text-to-image ratio.
+  - Personalize emails and segment audiences.
+  - Regularly clean email lists to remove inactive subscribers.
+
+- **Email Marketing for Adult Platforms:**
+  - Research ESPs that allow adult content marketing.
+  - Ensure compliance with platform terms of service.
+  - Consider niche platforms for adult industry marketing.
+
+- **Reasonable Pricing for Email Services:**
+  - Compare costs with other providers.
+  - Evaluate service value, including support and reliability.
+
+- **Email Marketing for Small Businesses:**
+  - Explore alternatives to Mailchimp for better plans or service.
+  - Focus on maintaining a clean, updated email list.
+  - Use platforms with good deliverability and support.
+
+- **Writing Catchy Subject Lines:**
+  - Study successful campaigns for inspiration.
+  - Use resources like swipe files and copywriting courses.
+  - Practice and test different styles.
+
+- **Innovative Email Management:**
+  - Use email clients with kanban-style organization.
+  - Consider email management tools with CRM-like features.
+
+- **Email Marketing for SaaS Founders:**
+  - Use tools like ConvertKit, ActiveCampaign, or Drip.
+  - Share strategies with other founders in online communities
